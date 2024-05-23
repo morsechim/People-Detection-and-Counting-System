@@ -47,7 +47,7 @@ Ensure you have the following installed:
 
 2. Run the script:
     ```bash
-    python people_detection.py
+    python main.py
     ```
 
 3. View the output:
