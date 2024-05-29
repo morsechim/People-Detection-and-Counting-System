@@ -30,8 +30,8 @@ Ensure you have the following installed:
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/people-detection.git
-    cd people-detection
+    git clone https://github.com/morsechim/People-Detection-and-Counting-System.git
+    cd People-Detection-and-Counting-System
     ```
 
 2. Install the required packages:
